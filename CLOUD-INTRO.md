@@ -1,4 +1,5 @@
-                                                          INTRODUCTION TO CLOUD COMPUTING
+Author: SHASHANK RAY
+                                                          INTRODUCTION TO CLOUD COMPUTING                          
                                                         ************************************
   * Cloud computing is defined as on demand delivery of the IT services over the internet,
   * it provids pay-as-you-go service globally,
@@ -46,3 +47,5 @@ Note: Many esteemed IT organization usese AWS as cloud service such as Netflix a
 * operations (DevOps Engineer, Cloud Administrator), 
 * development (Cloud Developer), and 
 * security (Cloud Security Engineer, Security Analyst)
+
+                                                                                                                                    ****Author: SHASHANK RAY****
