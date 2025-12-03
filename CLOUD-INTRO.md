@@ -1,9 +1,9 @@
                                                           INTRODUCTION TO CLOUD COMPUTING
                                                         ************************************
-  --> Cloud computing is defined as on demand delivery of the IT services over the internet,
-  --> it provids pay-as-you-go service globally,
-  --> it means we don't have to buy instead we can rent those infrastructures accourding to our need.
-  --> it has changed the traditional IT structure and also provide the most flexiability and scalibility.
+  * Cloud computing is defined as on demand delivery of the IT services over the internet,
+  * it provids pay-as-you-go service globally,
+  * it means we don't have to buy instead we can rent those infrastructures accourding to our need.
+  * it has changed the traditional IT structure and also provide the most flexiability and scalibility.
 
   ## Types of cloud model.
   1. Public Cloud:
