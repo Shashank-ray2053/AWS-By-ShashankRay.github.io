@@ -1,2 +1,2 @@
 # AWS-By-ShashankRay.github.io
-AWS + DevOps learning resources by Shashank Ray
+Start Your AWS Journey: A Practical Guide for Beginners and Career Starters
