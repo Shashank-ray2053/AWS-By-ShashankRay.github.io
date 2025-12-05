@@ -39,5 +39,30 @@ Note: we don't have to buy this virtual servers  instead we can rent it and only
          Note: Once you have done with the task or job you must terminate or stop the  instance from unnecessary usages and cost saving.
         **********************************************************************************************************************************
 
+  ## Important things to be considered while creating instance.
+  --> Before creating instance we must know about the requirements and need of the job so that according to the need we can select the resources for the instane such as storage, security polices etc.
+  For Instance:
+  
+                                                                        Instance Type
+                                                                ****************************
+  * t2.micro / t3.micro → free tier, basic tasks
+  * m series → general purpose
+  * c series → high performance / compute
+  * r series → memory-intensive apps
+  * g & p series → GPU for AI/ML
+ 
+                                                                    
+                                                                     Security  Groups
+                                                                ****************************
+
+  --> It is like firewall for the servers which will protect the servers from unauthorized entry and can filter the  upcomming traffic to keep the instance secured.
+
+* Port 22 → SSH (Linux)
+* Port 3389 → RDP (Windows)
+* Port 80/443 → Web traffic
+
+      Note: Never keep these ports open for everyone unless that is need as these are the basic but most crucial way to enter to any servers and can cause       serious issuses.
+
+
 
 
