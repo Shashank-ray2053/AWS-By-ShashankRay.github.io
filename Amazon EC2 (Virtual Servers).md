@@ -1,5 +1,5 @@
---Author: SHASHANK RAY
---Email: Shashankray2053@gmail.com
+Author: SHASHANK RAY
+Email: Shashankray2053@gmail.com
 
                                                                   AMAZON EC2 (VIRTUAL SERVERS)
                                                          **********************************************
@@ -29,9 +29,14 @@ Note: we don't have to buy this virtual servers  instead we can rent it and only
 
                                                                             How EC2 WORKS?
                                                            **********************************************
+  
   1. Firstly, Choose the operating system called as Amazon Machine Image (AMI) such as linux or windows.
   2. After that choose the instant type and it deepends on the need and use like big, small or medium.
   3. Then, Configure the security rule which will be the firewall for the server which will filter the users accourding to the protocol defined.
   4. In fourth step, choose the storage size and add it to the instance.
-  5. Furthermore,                 
+  5. Finally lunch the instance and connect ussing SSH for linux and  RDP for windows
+ 
+Note: Once you have done with the task or job you must terminate or stop the  instance from unnecessary usages and cost saving.
+
+
 
