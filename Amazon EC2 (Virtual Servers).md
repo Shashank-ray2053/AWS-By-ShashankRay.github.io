@@ -61,7 +61,31 @@ Note: we don't have to buy this virtual servers  instead we can rent it and only
 * Port 3389 → RDP (Windows)
 * Port 80/443 → Web traffic
 
-      Note: Never keep these ports open for everyone unless that is need as these are the basic but most crucial way to enter to any servers and can cause       serious issuses.
+      Note: Never keep these ports open for everyone unless that is need as these are the basic but most crucial way to enter to any servers and can cause    serious issuses.
+
+                                                                              Key Pair
+                                                                          ****************
+  * Key pair is simply a lock for the instane  which helps to authenticate the users. There are two types of key pair, private and public.
+  * It has .pem extension
+ 
+                                                                        Elastic IP Address
+                                                                  ****************************
+    * Elastic IP Address is defined as the static, public IPV4 address which we can allocate to the ec2, NAT or network interface.
+    * It is called as static becasue it does not change even if the instance is stop and restarted.
+    * You have full control over this address.
+
+
+
+                  NOTE:
+                  •	Always stop your instance if not using it
+                  •	Use strong security group rules
+                  •	Take snapshots for backups
+                  •	Start with Ubuntu if you are new to Linux
+                  •	Monitor usage using CloudWatch
+
+                                                                                              AUTHER: SHASHANK RAY
+
+  
 
 
 
