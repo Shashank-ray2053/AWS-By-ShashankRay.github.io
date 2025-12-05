@@ -36,7 +36,7 @@ Note: we don't have to buy this virtual servers  instead we can rent it and only
   4. In fourth step, choose the storage size and add it to the instance.
   5. Finally lunch the instance and connect ussing SSH for linux and  RDP for windows
  
-Note: Once you have done with the task or job you must terminate or stop the  instance from unnecessary usages and cost saving.
+***** Note: Once you have done with the task or job you must terminate or stop the  instance from unnecessary usages and cost saving.****
 
 
 
