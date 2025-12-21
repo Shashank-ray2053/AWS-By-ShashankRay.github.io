@@ -19,7 +19,10 @@ This project is designed to help beginners **learn how to host a static website 
 4. Apply a bucket policy for public access
 5. Open the website using the bucket website endpoint
 
-For a detailed step-by-step guide with screenshots, visit my **Medium blog**: [Link to Blog]  
+For a detailed step-by-step guide with screenshots, visit my **Medium blog**: https://medium.com/@shashankray2053/static-website-hosting-on-aws-s3-with-public-access-0bf4d021b7c7
+
+Linkedin: https://www.linkedin.com/pulse/helping-beginners-understand-aws-hosting-static-website-shashank-ray-mtcoc/?trackingId=UtocetVIfHBorwTfipzJMw%3D%3D
+
 GitHub repository for reference and practice files:
 
 ## Next Steps for real world production ready project
@@ -27,4 +30,6 @@ GitHub repository for reference and practice files:
 - Use a custom domain with Route 53
 - Enable HTTPS with SSL/TLS
 - Enable bucket versioning and logging
+
+Note: You must delete the resources once the job is done.
 
