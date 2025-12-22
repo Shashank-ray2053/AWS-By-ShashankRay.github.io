@@ -1,4 +1,4 @@
-# Terraform local files
+.terraform
 .terraform/
 .terraform.lock.hcl
 *.tfstate
