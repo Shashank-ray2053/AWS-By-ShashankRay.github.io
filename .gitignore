@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 .terraform/
+=======
+.terraform
+.terraform/
+.terraform.lock.hcl
+>>>>>>> 8b035658fa365eb4091d10cf3919540d299f2ea8
 *.tfstate
 *.tfstate.backup
 
